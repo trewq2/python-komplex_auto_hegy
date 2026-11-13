@@ -1,0 +1,12 @@
+Mercedes;C 200;fekete;7.5;125000;2018;jó
+Opel;Astra;fehér;10.2;186000;2015;jó
+Fiat;Panda;piros;14.2;92000;2017;megkímélt
+Suzuki;Swift;kék;11.0;78000;2019;megkímélt
+Toyota;Corolla;ezüst;9.5;112000;2020;jó
+Ford;Focus;szürke;10.8;210000;2014;felújítandó
+Volkswagen;Golf;fekete;8.6;154000;2016;jó
+Renault;Clio;piros;12.1;67000;2021;megkímélt
+Skoda;Octavia;fehér;8.9;242000;2013;felújítandó
+BMW;320i;kék;7.1;138000;2018;jó
+Dacia;Sandero;fehér;13.5;45000;2022;megkímélt
+Peugeot;208;sárga;10.0;99000;2020;jó

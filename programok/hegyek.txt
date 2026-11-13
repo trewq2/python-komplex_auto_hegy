@@ -1,0 +1,10 @@
+Kékes;Mátra;1014
+Istállós-kő;Bükk;959
+Csóványos;Börzsöny;939
+Nagy-Milic;Zempléni-hegység;896
+Írott-kő;Kőszegi-hegység;883
+Pilis;Pilis;757
+Karancs;Cserhát;729
+Kőris-hegy;Bakony;704
+Dobogó-kő;Visegrádi-hegység;700
+Zengő;Mecsek;682
